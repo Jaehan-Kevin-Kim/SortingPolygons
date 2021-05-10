@@ -1,0 +1,5 @@
+The additional Sorting Algorithm we chose is the Heap Sort. 
+Heap Sort is comparison based and it's similar to Selection Sort. Heap Sort builds a heap
+from the input array, and separates the heap into sorted and unsorted heaps. Then it 
+takes the largest value from the unsorted heap and places it in the sorted heap, shrinking
+the size of the unsorted heap by 1 until completion. 
